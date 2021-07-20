@@ -1,2 +1,2 @@
 # syncsol
-Sync
+Synchronizer
