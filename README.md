@@ -1,2 +1,2 @@
 # syncsol
-This is a synchronizer Tool 
+This is a synchronizer Tool we will use.
